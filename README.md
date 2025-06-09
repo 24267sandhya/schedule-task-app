@@ -3,6 +3,7 @@
 > **Author:** Sandhya Yadav  
 > **Platform:** React Native (Expo)  
 > **Repository:** [GitHub Link](https://github.com/24267sandhya/schedule-task-app)
+> **Installation Link on your android mobile phone:** [App Link](https://expo.dev/accounts/sandhya_yadav/projects/schedule/builds/71b01c8f-f73e-4398-8eb7-88908367649a)
 
 
 ## 🧠 Overview
@@ -40,12 +41,6 @@ npx expo start
 * Open the **Expo Go** app on your mobile device.
 * Scan the QR code displayed in your terminal/browser.
 * The app will load on your phone.
-
-
-
-## 🖼️ Screenshots
-
-*Add some screenshots here (optional).*
 
 
 
