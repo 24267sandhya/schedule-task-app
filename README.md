@@ -71,7 +71,7 @@ npx expo start
 
 ## 📂 Folder Structure
 
-my-tasks/
+my-tasks/  
 ├── assets/             # App icons and images  
 ├── components/         # Reusable components (if any)  
 ├── App.js              # Main app entry point  
