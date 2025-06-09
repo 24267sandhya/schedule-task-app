@@ -24,7 +24,7 @@ Schedule Task App is a simple and intuitive mobile application that allows users
 
 
 # Clone the repository
-git clone https://github.com/24267sandhya/schedule-task-app.git
+git clone https://github.com/24267sandhya/schedule-task-app.git  
 cd schedule-task-app
 
 # Install dependencies
