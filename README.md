@@ -4,6 +4,9 @@
 > **Platform:** React Native (Expo)  
 > **Repository:** [GitHub Link](https://github.com/24267sandhya/schedule-task-app)  
 > **Installation Link on your android mobile phone:** [App Link](https://expo.dev/accounts/sandhya_yadav/projects/schedule/builds/71b01c8f-f73e-4398-8eb7-88908367649a)
+>
+![Your paragraph text](https://github.com/user-attachments/assets/772c8aae-9d5e-4c90-87ee-90e764704321)
+
 
 
 ## 🧠 Overview
