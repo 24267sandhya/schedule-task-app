@@ -4,13 +4,12 @@
 > **Platform:** React Native (Expo)  
 > **Repository:** [GitHub Link](https://github.com/24267sandhya/schedule-task-app)
 
----
 
 ## 🧠 Overview
 
 Schedule Task App is a simple and intuitive mobile application that allows users to create, manage, and track their daily tasks. Built using React Native with Expo, it provides a lightweight yet effective solution for personal productivity.
 
----
+
 
 ## 🚀 Getting Started
 
@@ -22,10 +21,65 @@ Schedule Task App is a simple and intuitive mobile application that allows users
 
 ### 🔧 Installation
 
-```bash
+
 # Clone the repository
 git clone https://github.com/24267sandhya/schedule-task-app.git
 cd schedule-task-app
 
 # Install dependencies
 npm install
+
+
+### 📱 Run on Device
+
+
+# Start Expo development server
+npx expo start
+
+
+* Open the **Expo Go** app on your mobile device.
+* Scan the QR code displayed in your terminal/browser.
+* The app will load on your phone.
+
+
+
+## 🖼️ Screenshots
+
+*Add some screenshots here (optional).*
+
+
+
+## ⚙️ Features
+
+* ✅ Add new tasks
+* ✅ Mark tasks as completed
+* ✅ View scheduled tasks
+* ✅ Lightweight and responsive UI
+
+
+
+## 🤔 Challenges Faced
+
+* 🔄 Faced version mismatch issues with `expo` and `react-native-gesture-handler`, resolved using `npx expo install`.
+* 🧪 Testing real-time updates on mobile devices with different screen sizes was tricky.
+* 🧩 Adjusting image dimensions for Expo’s asset validation during build.
+
+
+
+## 🧠 Design Decisions
+
+* Opted for **Expo** to simplify cross-platform development and QR-based testing.
+* Minimal UI with focus on **usability** and **task visibility**.
+* Used local state for task tracking to keep the app fast and dependency-free.
+
+
+
+## 📂 Folder Structure
+
+my-tasks/
+├── assets/             # App icons and images
+├── components/         # Reusable components (if any)
+├── App.js              # Main app entry point
+├── app.json            # Expo config
+├── package.json        # Dependencies and scripts
+└── README.md
