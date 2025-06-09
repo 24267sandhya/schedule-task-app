@@ -2,7 +2,7 @@
 
 > **Author:** Sandhya Yadav  
 > **Platform:** React Native (Expo)  
-> **Repository:** [GitHub Link](https://github.com/24267sandhya/schedule-task-app)
+> **Repository:** [GitHub Link](https://github.com/24267sandhya/schedule-task-app)  
 > **Installation Link on your android mobile phone:** [App Link](https://expo.dev/accounts/sandhya_yadav/projects/schedule/builds/71b01c8f-f73e-4398-8eb7-88908367649a)
 
 
@@ -72,9 +72,9 @@ npx expo start
 ## 📂 Folder Structure
 
 my-tasks/
-├── assets/             # App icons and images
-├── components/         # Reusable components (if any)
-├── App.js              # Main app entry point
-├── app.json            # Expo config
-├── package.json        # Dependencies and scripts
+├── assets/             # App icons and images  
+├── components/         # Reusable components (if any)  
+├── App.js              # Main app entry point  
+├── app.json            # Expo config  
+├── package.json        # Dependencies and scripts  
 └── README.md
