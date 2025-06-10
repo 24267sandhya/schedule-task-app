@@ -55,11 +55,11 @@ npx expo start
 * ✅ Lightweight and responsive UI
 * ✅ Priority-based local notifications:  
 
-    🔴 High priority: notified every 30 minutes  
+    🔴 High priority: notified after 30 minutes  
 
-    🟡 Medium priority: notified every 2 hours  
+    🟡 Medium priority: notified after 2 hours  
 
-    🟢 Low priority: notified every 5 hours
+    🟢 Low priority: notified after 5 hours
 
  * ✅ Notifications stop when a task is marked as completed
 
