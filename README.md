@@ -61,7 +61,7 @@ npx expo start
 
   🟢 Low priority: notified 5 hours before
 
-  ✅ Notifications stop when a task is marked as completed
+ * ✅ Notifications stop when a task is marked as completed
 
 
 
