@@ -52,16 +52,7 @@ npx expo start
 * ✅ Add new tasks
 * ✅ Mark tasks as completed
 * ✅ View scheduled tasks
-* ✅ Lightweight and responsive UI
-* ✅ Priority-based local notifications:  
-
-    🔴 High priority: notified after 30 minutes  
-
-    🟡 Medium priority: notified after 2 hours  
-
-    🟢 Low priority: notified after 5 hours
-
- * ✅ Notifications stop when a task is marked as completed
+* ✅ Lightweight and responsive UI  
 
 
 
